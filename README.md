@@ -29,4 +29,8 @@ retrain.py is taken from the following github link i.e https://github.com/google
   
   Update the input layer to "Mul" in the MainActivity.kt
   
+  Detailed description is given in the following blog:
+  https://medium.com/@elye.project/applying-tensorflow-in-android-in-4-steps-to-recognize-superhero-f224597eb055
+  
+  
 
