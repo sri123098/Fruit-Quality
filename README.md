@@ -22,8 +22,11 @@ retrain.py is taken from the following github link i.e https://github.com/google
                 --input_binary=true
   
   Then clone this repository and then perform the following actions.
+  
   Update the graph and labels.txt in the assets folder with the stripped_model graph and labels.
+  
   Update the paths for graph and labels.txt in the MainActivity.kt
+  
   Update the input layer to "Mul" in the MainActivity.kt
   
 
