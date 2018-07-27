@@ -32,5 +32,14 @@ retrain.py is taken from the following github link i.e https://github.com/google
   Detailed description is given in the following blog:
   https://medium.com/@elye.project/applying-tensorflow-in-android-in-4-steps-to-recognize-superhero-f224597eb055
   
+  Check out the images how the app is functioning in real world.
+  
+  
+  <img src ="one_plus.jpeg" width="200" height="350">
+  <img src="one_plus_f.jpeg" width="200" height="350">
+  <img src="mi_f2.jpeg" width="200" height="350">
+  <img src="mi_r.jpeg" width="200" height="350">
+  
+  
   
 
