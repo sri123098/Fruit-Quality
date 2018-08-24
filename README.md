@@ -42,7 +42,7 @@ This retrain.py utilizes transfer learning to quickly train on any custom data s
   Detailed description is given in the following blog:
   https://medium.com/@elye.project/applying-tensorflow-in-android-in-4-steps-to-recognize-superhero-f224597eb055
   
-  After converting the <trained_model> using bazel to <stripped_model>, please update the files 
+  After converting the <trained_model> using bazel to <stripped_model>, please update the graph files and images files in the assets folder.
   
   Check out the images how the app is functioning in real world.
   
@@ -51,6 +51,9 @@ This retrain.py utilizes transfer learning to quickly train on any custom data s
   <img src="one_plus_f.jpeg" width="200" height="350">
   <img src="mi_f2.jpeg" width="200" height="350">
   <img src="mi_r.jpeg" width="200" height="350">
+
+ Since I'm using the transfer-learning and retraining on the dataset, the model behavior is not up to the mark of the state of the art. One option is: converting the model specifically trained for these images directly from tensor flow to the tfmobile.
+Other options are: Utilization of GAN's for classification, exploring the State of the Art and inventing new methods. 
   
   
   
