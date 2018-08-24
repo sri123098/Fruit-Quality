@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fruit</string>
+    <string name="btn_recognize_text">Fruit and Quality?</string>
+    <string name="result_no_hero_found">Ops I don\'t know this fruit</string>
+    <string name="result_confident_hero_found">Surely %1$s with prob %2$s.</string>
+    <string name="result_think_hero_found">Predicting %1$s with prob %2$s.</string>
+    <string name="result_maybe_hero_found">May be %1$s.</string>
+</resources>
